@@ -1,8 +1,8 @@
-# Edgar Moreau
+# Hi, I'm Edgar Moreau!
 
-I build AI-powered tools for local businesses in France 🇫🇷
+I am a product-manager / architect empowered by AI and based in France. 🇫🇷
 
-Formerly in DeFi and blockchain, I helped build [FujiDAO](https://github.com/Fujicracy) ⛓️  
+Formerly in DeFi and blockchain, I co-founded [FujiDAO](https://github.com/Fujicracy) the first borrowing on-chain borrowing aggregator. 🗻  
 Today I use Claude Code, ChatGPT Codex, and AI workflows to ship products faster and turn ideas into working tools.
 
 ## Focus now 🎯
