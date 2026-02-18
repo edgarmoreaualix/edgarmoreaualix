@@ -1,6 +1,6 @@
-# Hi, I'm Edgar Moreau! 🦆
+# Hi, I'm Edgar! 🦆
 
-I am a product-manager empowered by AI and based in France. 🇫🇷
+I am an AI empowered product-manager based in France. 🇫🇷
 
 Formerly in DeFi and blockchain, I co-founded [FujiDAO](https://github.com/Fujicracy) the first on-chain borrowing aggregator. 🗻  
 Today I use Claude Code, ChatGPT Codex, and AI workflows to ship products faster and turn ideas into working tools.
