@@ -1,41 +1,41 @@
 # Hi, I'm Edgar! 🦆
 
-I am an AI empowered product-manager based in France. 🇫🇷
+I am an AI-empowered product builder based in France. 🇫🇷
 
-Formerly in DeFi and blockchain, I co-founded [FujiDAO](https://github.com/Fujicracy) the first on-chain borrowing aggregator. 🗻  
-Today I use Claude Code, ChatGPT Codex, and AI workflows to ship products faster and turn ideas into working tools.
+Formerly in DeFi and blockchain, I co-founded [FujiDAO](https://github.com/Fujicracy), the first on-chain borrowing aggregator. 🗻  
+Today I use Claude Code, AI agents, and rapid prototyping to explore ideas across domains — from local businesses to space infrastructure to robotics.
 
-## Focus now 🎯
+## What I'm building 🚀
 
-- Build practical AI systems for restaurants and local businesses 🍽️
-- Improve day-to-day operations, visibility, and growth 📈
-- Ship fast, iterate from real usage, and keep tools simple for teams ⚡
+- **Beeond** 🐝  
+  Bio-mimetic reinforcement learning for robotics. The goal: build the *Apex Pollinator* — a robot that expands nature's abilities by pollinating at full efficiency and beyond. Bridging biology, RL, and hardware to solve a real ecological challenge.
 
-## Current apps 🚀
+- **LaunchView** 🛰️  
+  A Flightradar / MarineTraffic for space. Tracks rockets and satellites in real time, and serves as a proving ground for orchestrating multiple AI agents on a single complex task.
+
+- **Team Hours** ⏱️  
+  A simple tool for employees to check in and check out, feeding into a centralized file so the boss spends time on what matters — not on accounting.
 
 - **EzBoost** 📣  
   Context-based ad creation and publishing on Meta Ads for restaurants.
+
 - **MenuBoost** 🧾  
-  Transcribes restaurant whiteboards into menus directly published on their website, saving time for teams.
+  Transcribes restaurant whiteboards into menus published directly on their website, saving time for teams.
+
+## How I think 🧠
+
+I believe the best way to understand a technology is to build something real with it.  
+That curiosity has taken me from smart contracts to multi-agent systems to reinforcement learning — and I'm just getting started.
+
+I'm optimistic about what happens when you combine AI with domains that need it most: ecology, space, and the daily operations of small businesses.
 
 ## How I work 🛠️
 
-1. Clarify business outcome (revenue, retention, or time saved)
-2. Scope a lean version with measurable impact
-3. Ship quickly with AI-assisted development
-4. Iterate from real usage and data
+1. Pick a problem worth solving
+2. Scope the leanest version that proves the idea
+3. Ship fast with AI-assisted development
+4. Iterate from real usage and real data
 
-## Focus in 2026 🔭
+## Let's talk 🤝
 
-- Publish more local-business case studies with before/after metrics
-- Productize reusable AI tools for restaurants
-- Build a reputation for reliable AI delivery in France
-
-## Philosophy 🧠
-
-I am deeply curious and optimistic about what AI enables.  
-I used to be "the idea guy." Now I ship those ideas fast and turn them into real products.
-
-## Work with me 🤝
-
-If you run a local business and want custom AI tools that actually get used, reach out.
+If you're working on something at the intersection of AI and the physical world — or if you run a local business and want tools that actually get used — reach out.
