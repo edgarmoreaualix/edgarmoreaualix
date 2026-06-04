@@ -1,6 +1,6 @@
 # Hi, I'm Edgar! 🦆
 
-I am an AI-empowered product builder based in France. 🇫🇷
+I am an AI-empowered product builder based in Swiss. 🇫🇷
 
 Formerly in DeFi and blockchain, I co-founded [FujiDAO](https://github.com/Fujicracy), the first on-chain borrowing aggregator. 🗻  
 Today I use Claude Code, AI agents, and rapid prototyping to explore ideas across domains — from local businesses to space infrastructure to robotics.
