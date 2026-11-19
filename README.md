@@ -4,4 +4,4 @@
 
 Learn the body. Plan live.
 
-First company: [FujiDAO](https://github.com/Fujicracy) · [Hugging Face](https://huggingface.co/Ethgar)
+First company: [FujiDAO](https://github.com/Fujicracy) · [Hugging Face](https://huggingface.co/edgarmoreau)
