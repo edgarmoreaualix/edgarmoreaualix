@@ -1,4 +1,4 @@
-# Edgar 🦆
+# Edgar 🦢
 
 **World Models. Embodied AI.**
 
